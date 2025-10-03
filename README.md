@@ -20,14 +20,10 @@ Voice overlays, ambient sound hooks, and mood-based styling for immersive UX
 - Modular Logic
 Clean separation of persona logic, mood tracking, and response generation
 
-Author
+## Author
 
 Bryan John Berzabal
-
 BSIT Graduate Philippine Christian University
-
 Philippines
-
 Aspiring DevOps Engineer/Software Engineer
-
 bryanbrzbl@gmail.com

@@ -24,7 +24,7 @@ Clean separation of persona logic, mood tracking, and response generation
 
 Bryan John Berzabal
 
-BSIT Graduate | Philippine Christian University
+BSIT Graduate  Philippine Christian University
 
 Philippines
 

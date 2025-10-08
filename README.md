@@ -30,5 +30,5 @@ Philippines
 
 Aspiring  Software Engineer
 
-bryanbrzbl@gmail.com
+
 
